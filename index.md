@@ -8,3 +8,6 @@
 ``` c++
 cout << "Hello World" << endl;
 ```
+- [x] Submit HW1
+- [ ] Finish step 4
+- [ ] Submit this assignment
